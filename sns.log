@@ -1,0 +1,568 @@
+This is pdfTeX, Version 3.1415926-1.40.9 (MiKTeX 2.7) (preloaded format=pdflatex 2009.9.13)  14 OCT 2009 16:28
+entering extended mode
+**sns.tex
+(sns.tex
+LaTeX2e <2005/12/01>
+Babel <v3.8l> and hyphenation patterns for english, dumylang, nohyphenation, ge
+rman, ngerman, german-x-2009-06-19, ngerman-x-2009-06-19, french, loaded.
+("C:\Program Files\MiKTeX 2.7\tex\latex\ieeetran\IEEEtran.cls"
+Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+\@IEEEtrantmpdimenA=\dimen102
+\@IEEEtrantmpdimenB=\dimen103
+\@IEEEtrantmpcountA=\count79
+\@IEEEtrantmpcountB=\count80
+\@IEEEtrantmptoksA=\toks14
+-- Using IEEE Computer Society mode.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 366.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+-- Using 8.5in x 11in (letter) paper.
+-- Using PDF output.
+\@IEEEnormalsizeunitybaselineskip=\dimen104
+-- This is a 10 point document.
+\CLASSINFOnormalsizebaselineskip=\dimen105
+\CLASSINFOnormalsizeunitybaselineskip=\dimen106
+\IEEEnormaljot=\dimen107
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <5> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <8> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <11> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <17> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <20> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 724.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 724.
+\IEEEilabelindentA=\dimen108
+\IEEEilabelindentB=\dimen109
+\IEEEilabelindent=\dimen110
+\IEEEelabelindent=\dimen111
+\IEEEdlabelindent=\dimen112
+\IEEElabelindent=\dimen113
+\IEEEiednormlabelsep=\dimen114
+\IEEEiedmathlabelsep=\dimen115
+\IEEEiedtopsep=\skip41
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@IEEEsubequation=\count85
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\c@figure=\count86
+\c@table=\count87
+\@IEEEeqnnumcols=\count88
+\@IEEEeqncolcnt=\count89
+\@IEEEtmpitemindent=\dimen116
+\c@IEEEbiography=\count90
+\@IEEEtranrubishbin=\box26
+) ("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\graphicx.sty"
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\keyval.sty"
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\graphics.sty"
+Package: graphics 2006/02/20 v1.0o Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\graphics\trig.sty"
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\00miktex\graphics.cfg"
+File: graphics.cfg 2007/01/18 v1.5 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: pdftex.def on input line 90.
+
+("C:\Program Files\MiKTeX 2.7\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2009/08/25 v0.04m Graphics/color for pdfTeX
+\Gread@gobject=\count91
+))
+\Gin@req@height=\dimen117
+\Gin@req@width=\dimen118
+)
+("C:\Program Files\MiKTeX 2.7\tex\latex\ltxmisc\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2006/04/12  ver 3.3  Verb mode for urls, etc.
+) (sns.aux)
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+
+("C:\Program Files\MiKTeX 2.7\tex\context\base\supp-pdf.tex"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count92
+\scratchdimen=\dimen119
+\scratchbox=\box27
+\nofMPsegments=\count93
+\nofMParguments=\count94
+\everyMPshowfont=\toks16
+\MPscratchCnt=\count95
+\MPscratchDim=\dimen120
+\MPnumerator=\count96
+\everyMPtoPDFconversion=\toks17
+)
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 34.
+ ("C:\Program Files\MiKTeX 2.7\tex\latex\psnfss\ot1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 34.
+Missing character: There is no “ in font ptmr7t!
+Missing character: There is no ” in font ptmr7t!
+
+<exampleSNS.jpg, id=1, 471.7625pt x 305.14pt>
+File: exampleSNS.jpg Graphic file (type jpg)
+ <use exampleSNS.jpg>
+Underfull \hbox (badness 1859) in paragraph at lines 43--48
+[]\OT1/ptm/m/n/10 Besides blog-ging, Face-book, MyS-pace, Twit-ter,
+ []
+
+<popularSNS.jpg, id=2, 595.22375pt x 707.64375pt>
+File: popularSNS.jpg Graphic file (type jpg)
+ <use popularSNS.jpg>
+Overfull \hbox (46.0719pt too wide) in paragraph at lines 50--51
+[][] 
+ []
+
+
+Underfull \hbox (badness 3838) in paragraph at lines 54--54
+ \OT1/ptm/b/n/11 1.1. What Is So-cial Net-work-ing Ser-vices
+ []
+
+[1{C:/Users/syidah/AppData/Local/MiKTeX/2.7/pdftex/config/pdftex.map}
+
+
+ <exampleSNS.jpg>] <history1.jpg, id=11, 108.405pt x 172.9662pt>
+File: history1.jpg Graphic file (type jpg)
+ <use history1.jpg>
+Overfull \hbox (46.0719pt too wide) in paragraph at lines 65--66
+[][] 
+ []
+
+Missing character: There is no — in font ptmr7t!
+[2 <popularSNS.jpg> <history1.jpg>]
+Missing character: There is no — in font ptmr7t!
+
+Underfull \hbox (badness 1852) in paragraph at lines 74--75
+[]\OT1/ptm/m/n/10 After join-ing a so-cial net-work site, users are
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 113--114
+
+ []
+
+
+Underfull \hbox (badness 2961) in paragraph at lines 121--122
+[]\OT1/ptm/m/n/10 The Six De-grees of Sep-a-ra-tion The-ory is
+ []
+
+<weakties.jpg, id=18, 697.60625pt x 285.065pt>
+File: weakties.jpg Graphic file (type jpg)
+ <use weakties.jpg>
+Overfull \hbox (31.61812pt too wide) in paragraph at lines 132--133
+[][] 
+ []
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [4 <weakties.jpg>]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 140.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 140.
+
+Underfull \hbox (badness 10000) in paragraph at lines 157--158
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--167
+
+ []
+
+
+Underfull \hbox (badness 5475) in paragraph at lines 173--174
+[]\OT1/ptm/m/n/10 Friendster was de-signed to com-pete with
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+
+ []
+
+[5]
+Underfull \hbox (badness 10000) in paragraph at lines 178--179
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+\OT1/ptm/m/n/10 SNSs, in-clud-ing Tribe.net and MyS-pace.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+\OT1/ptm/m/n/10 group that en-cour-aged oth-ers to switch
+ []
+
+
+Underfull \hbox (badness 3815) in paragraph at lines 180--181
+\OT1/ptm/m/n/10 were indie-rock bands who were ex-pelled
+ []
+
+
+Underfull \hbox (badness 1616) in paragraph at lines 180--181
+\OT1/ptm/m/n/10 from Friend-ster for fail-ing to com-ply with
+ []
+
+
+Underfull \hbox (badness 1430) in paragraph at lines 180--181
+\OT1/ptm/m/n/10 pro-file reg-u-la-tions. MyS-pace con-tacted lo-cal
+ []
+
+
+Underfull \hbox (badness 6493) in paragraph at lines 180--181
+\OT1/ptm/m/n/10 The sym-bi-otic re-la-tion-ship be-tween bands
+ []
+
+
+Underfull \hbox (badness 4181) in paragraph at lines 180--181
+\OT1/ptm/m/n/10 and fans helped MyS-pace ex-pand be-yond
+ []
+
+
+Underfull \hbox (badness 3872) in paragraph at lines 180--181
+\OT1/ptm/m/n/10 based on user and by al-low-ing users to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 180--181
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 182--183
+
+ []
+
+Missing character: There is no ’ in font ptmr7t!
+<fbvsasian.jpg, id=25, 792.9625pt x 265.99374pt>
+File: fbvsasian.jpg Graphic file (type jpg)
+ <use fbvsasian.jpg>
+Overfull \hbox (31.61812pt too wide) in paragraph at lines 193--194
+[][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+
+ []
+
+[6 <fbvsasian.jpg>]
+Underfull \hbox (badness 2538) in paragraph at lines 202--203
+[]\OT1/ptm/m/n/10 1) So-cial net-work-ing be-tween busi-nesses -
+ []
+
+
+Underfull \hbox (badness 1400) in paragraph at lines 202--203
+\OT1/ptm/m/n/10 and clients to have dis-cus-sions on how to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 202--203
+
+ []
+
+
+Underfull \hbox (badness 1533) in paragraph at lines 204--205
+\OT1/ptm/m/n/10 com-mu-ni-ties - al-low-ing sci-en-tific groups to
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 204--205
+
+ []
+
+<future.jpg, id=29, 495.8525pt x 303.1325pt>
+File: future.jpg Graphic file (type jpg)
+ <use future.jpg>
+Underfull \hbox (badness 5417) in paragraph at lines 215--216
+[]\OT1/ptm/m/n/10 1)Networks more into the en-ter-prise. For
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 215--216
+
+ []
+
+
+Underfull \hbox (badness 1917) in paragraph at lines 217--218
+\OT1/ptm/m/n/10 and iden-tify in-flu-encers who are con-nected
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 217--218
+
+ []
+
+
+Underfull \hbox (badness 2368) in paragraph at lines 219--220
+\OT1/ptm/m/n/10 Man-age-ment). Aug-ment page in CPM like
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 219--220
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--225
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 226--227
+
+ []
+
+
+Underfull \hbox (badness 1742) in paragraph at lines 228--229
+\OT1/ptm/m/n/10 for so-cial net-work-ing in North Amer-ica is
+ []
+
+
+Underfull \hbox (badness 2245) in paragraph at lines 228--229
+\OT1/ptm/m/n/10 Face-book Mo-bile. Other com-pa-nies pro-vide
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 228--229
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 230--231
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+[]\OT1/ptm/m/n/10 Semantic So-cial Net-work-ing means
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 232--233
+\OT1/ptm/m/n/10 in-ter-con-nect-ing both con-tent and peo-ple in
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 232--233
+\OT1/ptm/m/n/10 a mean-ing-ful way. Users con-nected via a
+ []
+
+
+Underfull \hbox (badness 1688) in paragraph at lines 232--233
+\OT1/ptm/m/n/10 rich data sources for se-man-tic ap-pli-ca-tions.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+\OT1/ptm/m/n/10 Se-man-ti-cally Linked On-line Com-mu-ni-ties
+ []
+
+
+Underfull \hbox (badness 2261) in paragraph at lines 232--233
+\OT1/ptm/m/n/10 (SIOC) is used to rep-re-sents con-tents and
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 232--233
+
+ []
+
+[7 <future.jpg>]
+! Misplaced alignment tab character &.
+l.266 Boyd, D. M., &
+                     Ellison, N. B. (2007). Social network sites: Definition...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+[]\OT1/ptm/m/n/9 Boyd, D. M.,  El-li-son, N. B. (2007).
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\OT1/ptm/m/n/9 So-cial net-work sites: Def-i-ni-tion, his-tory,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 266--267
+\OT1/ptm/m/n/9 and schol-ar-ship. Jour-nal of Computer-
+ []
+
+
+Underfull \hbox (badness 3803) in paragraph at lines 266--267
+\OT1/ptm/m/n/9 Mediated Com-mu-ni-ca-tion, 13(1), ar-ti-cle 11.
+ []
+
+
+Overfull \hbox (15.73961pt too wide) in paragraph at lines 266--267
+\OT1/ptm/m/n/9 http://jcmc.indiana.edu/vol13/issue1/boyd.ellison.html 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 269.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 269.
+
+Overfull \hbox (42.15434pt too wide) in paragraph at lines 269--270
+\OT1/ptm/m/n/9 the-[]future-[]of-[]social-[]networks-[]on-[]the-[]internet-[]fo
+r-[]semantics ?
+ []
+
+
+Underfull \hbox (badness 1668) in paragraph at lines 275--276
+[]\OT1/ptm/m/n/9 Hassan, N. R. 2009. Us-ing So-cial Net-work
+ []
+
+
+Underfull \hbox (badness 1939) in paragraph at lines 275--276
+\OT1/ptm/m/n/9 2009), 61-76. DOI= $http : / / dx . doi . org / 10 . 1080 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
+[]\OT1/ptm/m/n/9 Li, C., Al-time-ter Group, char-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 281--282
+\OT1/ptm/m/n/9 lene@altimetergroup.com, $www . slideshare . net /
+ []
+
+Missing character: There is no – in font ptmr7t!
+Missing character: There is no – in font ptmr7t!
+Missing character: There is no “ in font ptmri7t!
+Missing character: There is no ” in font ptmri7t!
+Missing character: There is no – in font ptmr7t!
+
+Underfull \hbox (badness 6300) in paragraph at lines 297--298
+[]\OT1/ptm/m/n/9 W.Kim, etal., \OT1/ptm/m/it/9 On So-cial Web-sites\OT1/ptm/m/n
+/9 , In-for-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 300--301
+[]$\OT1/ptm/m/n/9 http : / / en . wikipedia . org / wiki / List[]of[]social[]
+ []
+
+
+** Conference Paper **
+Before submitting the final camera ready copy, remember to:
+
+ 1. Manually equalize the lengths of two columns on the last page
+ of your paper;
+
+ 2. Ensure that any PostScript and/or PDF output post-processing
+ uses only Type 1 fonts and that every step in the generation
+ process uses the appropriate paper size.
+
+
+! LaTeX Error: \begin{enumerate} on input line 109 ended by \end{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.305 \end{document}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[8] (sns.aux) )
+(\end occurred inside a group at level 1)
+
+### semi simple group (level 1) entered at line 109 (\begingroup)
+### bottom level 
+Here is how much of TeX's memory you used:
+ 1750 strings out of 95304
+ 26095 string characters out of 1183053
+ 83262 words of memory out of 1500000
+ 4981 multiletter control sequences out of 110000
+ 39381 words of font info for 73 fonts, out of 3000000 for 5000
+ 14 hyphenation exceptions out of 8191
+ 26i,8n,20p,1447b,408s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.7/fonts/enc/dvips/fontname/8r.enc}<C
+:/Program Files/MiKTeX 2.7/fonts/type1/urw/helvetic/uhvr8a.pfb><C:/Program File
+s/MiKTeX 2.7/fonts/type1/urw/times/utmb8a.pfb><C:/Program Files/MiKTeX 2.7/font
+s/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2.7/fonts/type1/urw/times
+/utmri8a.pfb>
+Output written on sns.pdf (8 pages, 964067 bytes).
+PDF statistics:
+ 52 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 131072)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
